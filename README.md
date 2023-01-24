@@ -15,5 +15,5 @@
  ![image](https://user-images.githubusercontent.com/105470937/214203785-4e0408f6-29fb-4440-8878-5854498ea28a.png)
 
  
- ## In conclusion we see that the prices tended to fluctuate through out the years with sharp increases and decreases 4-6 years. 
+ ## In conclusion we see that the prices tended to fluctuate throughout the years with sharp increases and decreases every 4-6 years. 
  
