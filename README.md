@@ -1,4 +1,4 @@
-# This a study of the constant up and down movment of gas prices over the years.
+# This is a study of the constant up and down movment of gas prices over the years.
 
  
  As we can see from the study, the desiel and regular gas prices from 2004-2020 tended to hav sharp increases in 2008 and 2012. 
