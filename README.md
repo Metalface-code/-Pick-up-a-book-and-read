@@ -5,7 +5,7 @@
  
  (click image for full view of data)
  
- ![image](https://user-images.githubusercontent.com/105470937/214203751-de097a7e-d81c-4b80-8ad2-7e40cc84c48b.png)
+ ![image](https://user-images.githubusercontent.com/105470937/214204703-5907743e-3aa3-4815-bddc-dbcb713a67e0.png)
 
  
  We also notice drop offs in 2014 and 2020 in desiel fuel
